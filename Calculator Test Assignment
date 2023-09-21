@@ -1,0 +1,17 @@
+create a calculator application with basic operation like + - / * and write some Test Cases using junit, hamcrust and mockito.
+Application must have these checkpoints.
+1. Write test case for check exeception in calculator.
+2. create calculator service class with different other service like add service
+   so that application can perform test without using real service.
+3. for the comparasion actual result must have to use hamecrust library instead of junit
+4. only use junit annotation for testcase 
+5. follow the text-fixture style in writing test cases.
+6. Application must have 
+   a. Runner class
+   b. Suite class
+   c. and least 4 test case for each basic operation ( + - / * )
+7. Test case can perform multiple test on each operation 
+   a. with interger
+   b. double
+   c. float 
+
